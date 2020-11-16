@@ -1,0 +1,15 @@
+div.scr {
+    position: relative;
+  }
+  .carouselStyle {
+      margin-top: -70px;
+  }
+  .fooP {
+      margin:0;
+  }
+  .fooHr {
+      margin-top:0; padding-top: 0;
+  }
+  .conSty {
+      margin-left: 20px; margin-right: 20px;
+  }
